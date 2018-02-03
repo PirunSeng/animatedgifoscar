@@ -22,7 +22,3 @@ module Animatedgifoscar
     response.parsed_response['url']
   end
 end
-
-# Animatedgifoscar.find(768)
-# Animatedgifoscar.tagged('cat')
-# Animatedgifoscar.random('cat')
